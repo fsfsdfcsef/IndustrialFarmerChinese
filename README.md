@@ -3,35 +3,39 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">Norman, The Industrial Farmer</h1>
+<h1 align="center">诺曼，专业农夫</h1>
 
-### This is my example custom hero for Bloons TD 6.
+### doombubbles的Bloons TD 6自定义英雄范例
 
 <img src="image.png">
 
-### Levels
+### 注意
 
-1. Collects nearby bananas. Your next Banana Farm is free.
-2. Collected Bananas are worth 10% more.
-3. Spray Bloons in a large area with pesticide, damaging them over time.
-4. All Banana Farms in radius get tier 1 upgrades for free.
-5. Banana Farms can be placed on nearby water.
-6. All Banana Farms in radius get tier 2 upgrades for free.
-7. Range is increased.
-8. Banana Farms in radius and their upgrades cost 10% less.
-9. Collected Bananas are now worth 15% more.
-10. Transforms some of the Largest Bloons on screen into Green Bloons. Targets up to BFBs.
-11. Bloon Pesticide's damage over time is significantly increased.
-12. Further increased range.
-13. Collected Bananas Crates are now worth 20% more.
-14. Bloon Pesticide makes Bloons take additional damage from attacks.
-15. Banana Farms in radius and their upgrades now cost 20% less.
-16. Green Revolution can hit more Bloons, including ZOMGs and DDTs.
-17. Bloon Pesticide's damage over time is massively increased.
-18. Further increased range.
-19. Collected Bananas Crates are now worth 25% more.
-20. Green Revolution affects even more Bloons and has reduced cooldown.
+    对于游戏内字库中缺少的汉字将被替换为拼音
 
+### 等级变化
 
+1. 收集附近的香蕉，提供一个免费的香蕉农场
+2. 收集的香蕉价值增加10%
+3. 气球杀灭剂：向气球喷洒大范围的农药，每秒造成数次伤害
+4. 范围内的所有香蕉农场获得免费1阶升级
+5. 香蕉农场能够放置在附近的水域
+6. 范围内的所有香蕉农场获得免费2阶升级
+7. 范围增加
+8. 范围内的香蕉农场升级价格减少10%
+9. 收集的香蕉价值增加15%
+10. 绿色革命：将一些最大的气球变成绿气球，最高锁定BFB
+11. 气球杀灭剂伤害大幅增加
+12. 范围增加
+13. 收集的成箱香蕉价值增加20%
+14. 被气球杀灭剂喷到的气球将受到更多伤害
+15. 范围内的香蕉农场升级价格减少20%
+16. 绿色革命可转换更多气球，包括ZOMG和DDT
+17. 气球杀灭剂的伤害巨幅增加
+18. 范围增加
+19. 收集的成箱香蕉价值增加25%
+20. 绿色革命可转换更多气球，减少绿色革命技能冷却
+
+需要BTD6 Mod Helper
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
 

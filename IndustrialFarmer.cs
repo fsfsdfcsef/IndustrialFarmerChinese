@@ -11,12 +11,12 @@ public class IndustrialFarmer : ModHero
 
     public override int Cost => 1400;
 
-    public override string DisplayName => "Norman";
-    public override string Title => "Industrial Farmer";
-    public override string Level1Description => "Collects nearby bananas. Your next Banana Farm is free.";
+    public override string DisplayName => "诺曼";
+    public override string Title => "专业农夫";
+    public override string Level1Description => "收集附近的香蕉，提供一个免费的香蕉农场";
 
     public override string Description =>
-        "Norman collects your Bananas and helps you expand your farming operations.";
+        "诺曼可以收集香蕉，帮助发展你的农业";
 
 
     public override string NameStyle => TowerType.Gwendolin; // Yellow colored

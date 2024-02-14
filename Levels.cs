@@ -19,7 +19,7 @@ public class Levels
 {
     public class Level2 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Collected Bananas are worth 10% more.";
+        public override string Description => "收集的香蕉价值增加10%";
 
         public override int Level => 2;
 
@@ -31,10 +31,10 @@ public class Levels
 
     public class Level3 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string AbilityName => "Bloon Pesticide";
+        public override string AbilityName => "气球杀灭剂";
 
         public override string AbilityDescription =>
-            "Spray Bloons in a large area with pesticide, damaging them over time.";
+            "向气球喷洒大范围的农药，每秒造成数次伤害";
 
         public override string Description => $"{AbilityName}: {AbilityDescription}";
 
@@ -92,7 +92,7 @@ public class Levels
 
     public class Level4 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "All Banana Farms in radius get tier 1 upgrades for free.";
+        public override string Description => "范围内的所有香蕉农场获得免费1阶升级";
 
         public override int Level => 4;
 
@@ -109,7 +109,7 @@ public class Levels
 
     public class Level5 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Banana Farms can be placed on nearby water.";
+        public override string Description => "香蕉农场能够放置在附近的水域";
 
         public override int Level => 5;
 
@@ -122,7 +122,7 @@ public class Levels
 
     public class Level6 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "All Banana Farms in radius get tier 2 upgrades for free.";
+        public override string Description => "范围内的所有香蕉农场获得免费2阶升级";
 
         public override int Level => 6;
 
@@ -134,7 +134,7 @@ public class Levels
 
     public class Level7 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Range is increased.";
+        public override string Description => "范围增加";
 
         public override int Level => 7;
 
@@ -147,7 +147,7 @@ public class Levels
 
     public class Level8 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Banana Farms in radius and their upgrades cost 10% less.";
+        public override string Description => "范围内的香蕉农场升级价格减少10%";
 
         public override int Level => 8;
 
@@ -161,7 +161,7 @@ public class Levels
 
     public class Level9 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Collected Bananas are now worth 15% more.";
+        public override string Description => "收集的香蕉价值增加15%";
 
         public override int Level => 9;
 
@@ -173,10 +173,10 @@ public class Levels
 
     public class Level10 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string AbilityName => "Green Revolution";
+        public override string AbilityName => "绿色ge命";
 
         public override string AbilityDescription =>
-            "Transforms some of the Largest Bloons on screen into Green Bloons. Targets up to BFBs.";
+            "将一些最大的气球变成绿气球，最高锁定BFB";
 
         public override string Description => $"{AbilityName}: {AbilityDescription}";
 
@@ -220,7 +220,7 @@ public class Levels
 
     public class Level11 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Bloon Pesticide's damage over time is significantly increased";
+        public override string Description => "气球杀灭剂伤害大幅增加";
 
         public override int Level => 11;
 
@@ -234,7 +234,7 @@ public class Levels
 
     public class Level12 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Further increased range";
+        public override string Description => "增加范围";
 
         public override int Level => 12;
 
@@ -247,7 +247,7 @@ public class Levels
 
     public class Level13 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Collected Bananas Crates are now worth 20% more.";
+        public override string Description => "收集的成箱香蕉价值增加20%";
 
         public override int Level => 13;
 
@@ -259,7 +259,7 @@ public class Levels
 
     public class Level14 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Bloon Pesticide makes Bloons take additional damage from attacks.";
+        public override string Description => "被气球杀灭剂喷到的气球将受到更多伤害";
 
         public override int Level => 14;
 
@@ -284,7 +284,7 @@ public class Levels
 
     public class Level15 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Banana Farms in radius and their upgrades now cost 20% less.";
+        public override string Description => "范围内的香蕉农场升级价格减少20%";
 
         public override int Level => 15;
 
@@ -297,7 +297,7 @@ public class Levels
 
     public class Level16 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Green Revolution can hit more Bloons, including ZOMGs and DDTs.";
+        public override string Description => "绿色ge命可转换更多气球，包括ZOMG和DDT";
 
         public override int Level => 16;
 
@@ -317,7 +317,7 @@ public class Levels
 
     public class Level17 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Bloon Pesticide's damage over time is massively increased.";
+        public override string Description => "气球杀灭剂的伤害巨幅增加";
 
         public override int Level => 17;
 
@@ -332,7 +332,7 @@ public class Levels
 
     public class Level18 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Further increased range";
+        public override string Description => "范围增加";
 
         public override int Level => 18;
 
@@ -346,7 +346,7 @@ public class Levels
 
     public class Level19 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Collected Bananas Crates are now worth 25% more.";
+        public override string Description => "收集的成箱香蕉价值增加25%";
 
         public override int Level => 19;
 
@@ -358,7 +358,7 @@ public class Levels
 
     public class Level20 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "Green Revolution affects even more Bloons and has reduced cooldown.";
+        public override string Description => "绿色ge命可转换更多气球，减少绿色ge命技能冷却";
 
         public override int Level => 20;
 
