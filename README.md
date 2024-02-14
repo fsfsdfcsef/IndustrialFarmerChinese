@@ -11,7 +11,7 @@
 
 ### 注意
 
-    对于游戏内字库中缺少的汉字将被替换为拼音
+对于游戏内字库中缺少的汉字将被替换为拼音
 
 ### 等级变化
 
@@ -35,6 +35,7 @@
 18. 范围增加
 19. 收集的成箱香蕉价值增加25%
 20. 绿色革命可转换更多气球，减少绿色革命技能冷却
+
 
 需要BTD6 Mod Helper
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
