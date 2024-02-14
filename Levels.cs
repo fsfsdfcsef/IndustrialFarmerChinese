@@ -234,7 +234,7 @@ public class Levels
 
     public class Level12 : ModHeroLevel<IndustrialFarmer>
     {
-        public override string Description => "增加范围";
+        public override string Description => "范围增加";
 
         public override int Level => 12;
 
