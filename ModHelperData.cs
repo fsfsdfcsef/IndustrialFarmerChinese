@@ -4,10 +4,10 @@ public static class ModHelperData
 {
     public const string WorksOnVersion = "39.0";
     public const string Version = "1.0.8";
-    public const string Name = "Industrial Farmer";
+    public const string Name = "专业农夫";
 
     public const string Description =
-        "A custom hero who collects your bananas and helps you expand your farming operations.";
+        "加入一个自定义英雄，可以收集香蕉，帮助发展你的农业";
 
     public const string RepoOwner = "doombubbles";
     public const string RepoName = "IndustrialFarmer";
